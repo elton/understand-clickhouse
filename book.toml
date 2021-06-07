@@ -1,0 +1,6 @@
+[book]
+authors = ["Elton Zheng"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Understand Clickhouse"
